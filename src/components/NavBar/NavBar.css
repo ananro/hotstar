@@ -1,0 +1,127 @@
+.navbar{
+    background-color:rgb(38, 24, 49);
+    top:0;
+    height: 4rem;
+    width: 100%;
+    display: flex;
+    position: fixed;
+    justify-content: space-between;
+    padding:0.5rem;
+}
+.disnep{
+    height: 51px;
+    width: 12rem;
+    margin-top: 5.5px;
+    margin-left: 0px;
+
+}
+.disnep:hover{
+    color: white;
+    background-color:rgb(38, 24, 49);   
+}
+.nav-links{
+    display: flex;
+    list-style: none;
+    margin-right: 1139px;
+    margin-top: 26px;
+    text-decoration: none;
+    font-size: 17.2px;
+}
+
+.pl{
+    text-decoration: none;
+}
+
+.nav-items1{
+    color: #fff;
+    text-decoration: none;
+    text-transform: capitalize;
+    margin-left: 20px;
+    
+}
+.nav-items2{
+    color: white;
+    text-transform: capitalize;
+    margin-left: 20px;
+}
+.nav-items3{
+    color: #fff;
+    text-transform: capitalize;
+    margin-left: 20px;
+    
+}
+.nav-items4{
+    color: #fff;
+    text-transform: capitalize;
+    margin-left: 20px;
+    
+}
+.nav-items1:hover{
+    color: rgb(49, 243, 23);
+    background-color: rgb(38, 24, 49)
+} 
+.nav-items2:hover{
+    color: rgb(49, 243, 23);
+    background-color: rgb(38, 24, 49);
+} 
+.nav-items3:hover{
+    color: rgb(49, 243, 23);
+    background-color: rgb(38, 24, 49);
+} 
+.nav-items4:hover{
+    color: rgb(49, 243, 23);
+    background-color:rgb(38, 24, 49);
+} 
+
+
+.sub-but:hover{
+    color: rgb(11, 219, 28);
+    background-color: rgb(21, 80, 6);
+}
+.search-button{
+    margin-left: 550px;
+    margin-bottom: 12px;
+    margin-top: -1.5px;
+    background: transparent;
+    border: none;
+    transition: 0.5s;
+    font-size: 16px;
+    border-bottom: 1px solid rgb(241, 234, 234);
+    text-transform: capitalize;
+    font-weight: 550;
+    color: white;
+    outline: 10px;
+}
+.sub-but{
+    width: 100px;
+    height: 24px;
+    margin-top: 5px;
+    margin-left: 40px;
+    background-color: rgb(119, 52, 180);
+    font-size: 15.8px;
+    color: white;
+    border-radius: 7px;
+   border-width: 0;
+   cursor: pointer;
+}
+.log{
+    margin-left: 30px;
+    margin-top:3.1px;
+    cursor: pointer;
+    color:white;
+    font-size: 19.9px;
+}
+.log:hover{
+    color: rgb(224, 9, 224);
+    background-color: rgb(38, 24, 49);
+}
+.in{
+    text-decoration: none;
+}
+
+
+
+
+
+
+
